@@ -34,7 +34,7 @@ Keisuke Ino
 instagram: https://www.instagram.com/liladesign7/?hl=ja
 ````
 
-![card_design](readme-images/card_design.jpg)
+![card_design](images/card_design.jpg)
 
 
 
